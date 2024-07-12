@@ -176,7 +176,16 @@ Resultados esperados:
 •	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
 
 ### Cronograma de actividades
+
+
 ### Herramientas a utilizar
+En este punto identificaremos a lo largo del proyecto cuales son las herramientas que vamos ocupar, es decir desde el principio hasta el final, en este caso vamos hacer uso de programas de diseño y de desarrollo, lenguajes de programación, base de datos, a continuación determinaremos algunos de los principales :
+•	Adobe XD
+•	Visual Studio Code
+•	HTML5,
+•	JavaScript 
+•	MySQL
+• CSS3
 ## Story board y wireframe
 ## Mockups
 
