@@ -106,11 +106,14 @@ o	Arquitectura modular que permita actualizaciones y mejoras sin afectar el func
 o	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
 o	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
 
-Plan de trabajo
+## Plan de trabajo
+
+### Metodología a seguir
 En el proyecto de la página web de la cafetería Lukka, se empleará una de las metodologías de desarrollo por el cual se tomo en cuenta las ventajas y desventajas de cada una de ellas, nos basamos en la metodología de espiral, ya que esta mas enfocada a los puntos de la pagina web.
 Entre unas de las características de esta metodología es que combina elementos de diseño y prototipado en cada ciclo, permitiendo un desarrollo iterativo y evolutivo que minimiza los riesgos y mejora continuamente el producto final. Sin embargo, el proceso pasa por distintas etapas, desde la conceptualización, siguiendo el desarrollo, luego una fase de mejoras, y para finalizar con el mantenimiento. 
 Además, en cada ejecución del desarrollo se sigue una serie de fases principales:
-##Fase 1 Planificación
+
+### Fase 1-Planificación
 En esta fase definiremos las actividades que se desarrollaran durante este proceso, como también los resultados o servicios que deben ser producidos al final de cada fase del proyecto. Esto nos permiten evaluar el progreso y la calidad del proyecto. Los resultados aseguran que cada fase tiene un propósito claro y proporciona un valor añadido al proyecto en su conjunto. Mientras que nosotros como los responsables somos los encargados de completar las tareas asociadas a cada fase del proyecto, asegurando que se produzcan en el tiempo y con la calidad requerida. 
 
 •	Definición de objetivos y alcance del proyecto.
@@ -121,12 +124,7 @@ Resultados esperados:
 •	Documento general.
 •	Plan de proyecto.
 
-Responsables:
-•	Ana Karen Aguilar Torres
-•	Samuel Galindo Vaquier
-•	Mario Antonio Leyva Olivares
-
-Fase 2 Análisis y Diseño
+### Fase 2-Análisis y Diseño
 Planificación de actividades:
 •	Modelado de la arquitectura del sistema es decir el prototipado de la página web.
 •	Diseño de la base de datos.
@@ -136,73 +134,51 @@ Resultados esperados:
 •	Diagramas de clases, despliegue, actividades y secuencia.
 •	Diseño detallado del sistema.
 
-Responsables:
-•	Ana Karen Aguilar Torres
-•	Samuel Galindo Vaquier
-•	Mario Antonio Leyva Olivares
-
-
-Fase 3 Prototipado
+### Fase 3-Prototipado
 Planificación de actividades:
 •	Desarrollo de prototipos de la interfaz de usuario.
 •	Validación de prototipos con el cliente.
-•	Resultados esperados:
+
+Resultados esperados:
 •	Prototipo funcional de la página web.
 
-Responsables:
-•	Mario Antonio Leyva Olivares
-•	Ana Karen Aguilar Torres
-•	Samuel Galindo Vaquier
-•	Cliente (retroalimentación)
-
-##Fase 4 Implementación
+### Fase 4-Implementación
 Planificación de actividades:
 •	Desarrollo del código fuente de la página web.
 •	Integración con la base de datos.
 •	Implementación de funcionalidades y diseño final.
+
 Resultados esperados:
 •	Página web funcional.
 
-Responsables:
-•	Ana Karen Aguilar Torres
-•	Samuel Galindo Vaquier
-•	Mario Antonio Leyva Olivares
-
-Fase 5 Pruebas
+### Fase 5-Pruebas
 Planificación de actividades:
 •	Pruebas de componentes y su integración (estructura del código).
 •	Pruebas de usabilidad y aceptación con el cliente (evaluación de la pagina).
+
 Resultados esperados:
 •	Informe de pruebas.
 •	Versión final de la página web lista para despliegue.
 
-Responsables:
-•	Ana Karen Aguilar Torres
-•	Samuel Galindo Vaquier
-•	Mario Antonio Leyva Olivares
-•	Cliente (validación final)
-
-Fase 6: Despliegue y Mantenimiento
+### Fase 6-Despliegue y Mantenimiento
 Planificación de actividades:
 •	Despliegue de la página web en el servidor.
 •	Monitoreo y mantenimiento continuo.
+
 Resultados esperados:
 •	Página web en producción.
 •	Plan de mantenimiento.
-Responsables:
-•	Ana Karen Aguilar Torres
-•	Samuel Galindo Vaquier
-•	Mario Antonio Leyva Olivares
-•	Cliente (Actividad y el seguimiento sistemático de la página web)
 
-
-IDENTIFICACIÓN DE RESPONSABLES
+### Identificación de responsables
 •	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
 •	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
 •	Mario Antonio Leyva Olivares: Prototipado, pruebas, documentación y despliegue.
 •	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
 
-##CRONOGRAMAS DE ACTIVIDADES
+### Cronograma de actividades
+### Herramientas a utilizar
+## Story board y wireframe
+## Mockups
 
 
 
