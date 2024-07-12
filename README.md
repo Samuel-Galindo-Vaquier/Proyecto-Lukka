@@ -106,8 +106,7 @@ o	Arquitectura modular que permita actualizaciones y mejoras sin afectar el func
 o	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
 o	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
 
-
-##Plan de trabajo
+Plan de trabajo
 En el proyecto de la página web de la cafetería Lukka, se empleará una de las metodologías de desarrollo por el cual se tomo en cuenta las ventajas y desventajas de cada una de ellas, nos basamos en la metodología de espiral, ya que esta mas enfocada a los puntos de la pagina web.
 Entre unas de las características de esta metodología es que combina elementos de diseño y prototipado en cada ciclo, permitiendo un desarrollo iterativo y evolutivo que minimiza los riesgos y mejora continuamente el producto final. Sin embargo, el proceso pasa por distintas etapas, desde la conceptualización, siguiendo el desarrollo, luego una fase de mejoras, y para finalizar con el mantenimiento. 
 Además, en cada ejecución del desarrollo se sigue una serie de fases principales:
@@ -127,7 +126,7 @@ Responsables:
 •	Samuel Galindo Vaquier
 •	Mario Antonio Leyva Olivares
 
-##Fase 2 Análisis y Diseño
+Fase 2 Análisis y Diseño
 Planificación de actividades:
 •	Modelado de la arquitectura del sistema es decir el prototipado de la página web.
 •	Diseño de la base de datos.
@@ -143,7 +142,7 @@ Responsables:
 •	Mario Antonio Leyva Olivares
 
 
-##Fase 3 Prototipado
+Fase 3 Prototipado
 Planificación de actividades:
 •	Desarrollo de prototipos de la interfaz de usuario.
 •	Validación de prototipos con el cliente.
@@ -169,7 +168,7 @@ Responsables:
 •	Samuel Galindo Vaquier
 •	Mario Antonio Leyva Olivares
 
-##Fase 5 Pruebas
+Fase 5 Pruebas
 Planificación de actividades:
 •	Pruebas de componentes y su integración (estructura del código).
 •	Pruebas de usabilidad y aceptación con el cliente (evaluación de la pagina).
@@ -183,7 +182,7 @@ Responsables:
 •	Mario Antonio Leyva Olivares
 •	Cliente (validación final)
 
-##Fase 6: Despliegue y Mantenimiento
+Fase 6: Despliegue y Mantenimiento
 Planificación de actividades:
 •	Despliegue de la página web en el servidor.
 •	Monitoreo y mantenimiento continuo.
@@ -197,7 +196,7 @@ Responsables:
 •	Cliente (Actividad y el seguimiento sistemático de la página web)
 
 
-##IDENTIFICACIÓN DE RESPONSABLES
+IDENTIFICACIÓN DE RESPONSABLES
 •	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
 •	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
 •	Mario Antonio Leyva Olivares: Prototipado, pruebas, documentación y despliegue.
