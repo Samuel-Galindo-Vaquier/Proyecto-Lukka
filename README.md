@@ -75,14 +75,15 @@ o	Implementación de galerías de imágenes y carruseles de videos.
 o	Uso de animaciones suaves y transiciones para mejorar la experiencia del usuario.
 5.	Funcionalidades Específicas:
 o	Formulario de Contacto:
-	El formulario debe permitir a los usuarios enviar mensajes directamente desde la página.
-	Debe incluir validaciones en tiempo real para evitar el envío de datos incorrectos.
+o	El formulario debe permitir a los usuarios enviar mensajes directamente desde la página.
+o	Debe incluir validaciones en tiempo real para evitar el envío de datos incorrectos.
 o	Integración de Redes Sociales:
-	Enlaces a los perfiles de redes sociales de la empresa deben estar presentes en todas las páginas.
-	Opciones para compartir contenido en redes sociales.
+o	Enlaces a los perfiles de redes sociales de la empresa deben estar presentes en todas las páginas.
+o	Opciones para compartir contenido en redes sociales.
 o	Compatibilidad Multidispositivo:
-	La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
+o	La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
 </p>
+
 ### Requerimientos no funcionales
 <p align="justify">
 1.	Rendimiento: El sitio web debe cargar rápidamente.
@@ -106,6 +107,7 @@ o	Arquitectura modular que permita actualizaciones y mejoras sin afectar el func
 o	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
 o	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
 </p>
+
 ## Plan de trabajo
 <p align="justify">
 ### Metodología a seguir
