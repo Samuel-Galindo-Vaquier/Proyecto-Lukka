@@ -58,7 +58,7 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 ## Requerimientos funcionales y no funcionales
 
 ### Requerimientos funcionales
-
+<p align="justify">
 1.	Actualización de Información: Se deben implementar sistemas de gestión de contenido (CMS) para facilitar la actualización regular de información sobre productos, servicios, promociones y noticias.
 2.	Contenido Multimedia: La página debe incluir contenido multimedia autorizado.
 o	Soporte para la integración de imágenes y videos de alta calidad.
@@ -82,9 +82,9 @@ o	Integración de Redes Sociales:
 	Opciones para compartir contenido en redes sociales.
 o	Compatibilidad Multidispositivo:
 	La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
-
+</p>
 ### Requerimientos no funcionales
-
+<p align="justify">
 1.	Rendimiento: El sitio web debe cargar rápidamente.
 o	El tiempo de carga de la página principal no debe superar los 3 segundos en conexiones de banda ancha.
 o	Uso de técnicas de optimización como compresión de imágenes, carga diferida (lazy loading) y almacenamiento en caché.
@@ -105,7 +105,7 @@ o	Arquitectura modular que permita actualizaciones y mejoras sin afectar el func
 6.	Portabilidad:  El sitio web debe ser compatible con múltiples plataformas.
 o	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
 o	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
-
+</p>
 ## Plan de trabajo
 <p align="justify">
 ### Metodología a seguir
@@ -115,7 +115,9 @@ Además, en cada ejecución del desarrollo se sigue una serie de fases principal
 </p>
 
 ### Fase 1-Planificación
-En esta fase definiremos las actividades que se desarrollaran durante este proceso, como también los resultados o servicios que deben ser producidos al final de cada fase del proyecto. Esto nos permiten evaluar el progreso y la calidad del proyecto. Los resultados aseguran que cada fase tiene un propósito claro y proporciona un valor añadido al proyecto en su conjunto. Mientras que nosotros como los responsables somos los encargados de completar las tareas asociadas a cada fase del proyecto, asegurando que se produzcan en el tiempo y con la calidad requerida. 
+<p align="justify">
+En esta fase definiremos las actividades que se desarrollaran durante este proceso, como también los resultados o servicios que deben ser producidos al final de cada fase del proyecto. Esto nos permiten evaluar el progreso y la calidad del proyecto. Los resultados aseguran que cada fase tiene un propósito claro y proporciona un valor añadido al proyecto en su conjunto. Mientras que nosotros como los responsables somos los encargados de completar las tareas asociadas a cada fase del proyecto, asegurando que se produzcan en el tiempo y con la calidad requerida.
+</p>
 
 •	Definición de objetivos y alcance del proyecto.
 •	Análisis de requisitos funcionales y no funcionales.
@@ -124,6 +126,7 @@ En esta fase definiremos las actividades que se desarrollaran durante este proce
 Resultados esperados:
 •	Documento general.
 •	Plan de proyecto.
+
 
 ### Fase 2-Análisis y Diseño
 Planificación de actividades:
