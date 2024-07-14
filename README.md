@@ -226,7 +226,7 @@ En este punto identificaremos a lo largo del proyecto, cuales son las herramient
 ![5](https://github.com/user-attachments/assets/d7916e64-c3a1-4fc4-9972-66e00b1d32ec)
 
 ## Mockups
-![principal](https://github.com/user-attachments/assets/01e74a1d-d584-4339-b4af-fd337f76d0b2)
+![principal](https://github.com/user-attachments/assets/01e74a1d-d584-4339-b4af-fd337f76d0b2) 
 ![menu](https://github.com/user-attachments/assets/a809894d-eb62-4b09-83f0-5a642732e8cc)
 ![menusec](https://github.com/user-attachments/assets/62639995-3b0d-4284-b4e4-c8fa017cfc14)
 ![ubicacion](https://github.com/user-attachments/assets/e7718faf-3630-400c-840f-323b99580df7)
