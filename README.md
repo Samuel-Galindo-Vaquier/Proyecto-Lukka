@@ -89,22 +89,28 @@ o	La página debe ser totalmente responsiva y funcionar correctamente en disposi
 ### Requerimientos no funcionales
 <p align="justify">
 1.	Rendimiento: El sitio web debe cargar rápidamente.
+  
 *	El tiempo de carga de la página principal no debe superar los 3 segundos en conexiones de banda ancha.
 *	Uso de técnicas de optimización como compresión de imágenes, carga diferida (lazy loading) y almacenamiento en caché.
+  
 2.	Seguridad: El sitio web debe garantizar la seguridad de los datos.
 *	Implementación de HTTPS para encriptar la comunicación entre el servidor y los usuarios.
 *	Protección contra ataques comunes como XSS, CSRF e inyecciones SQL.
 *	Mecanismos para la gestión segura de contraseñas y datos sensibles.
+  
 3.	Fiabilidad: El sitio web debe ser confiable.
 *	Debe tener una disponibilidad de al menos el 99% del tiempo.
 *	Uso de servicios de hosting confiables y monitoreo constante para detectar y solucionar problemas rápidamente.
+  
 4.	Disponibilidad: El sitio web debe estar accesible en todo momento.
 *	El sitio debe estar disponible las 24 horas del día, los 7 días de la semana.
 *	Implementación de planes de contingencia y recuperación ante desastres.
+  
 5.	Mantenibilidad: El código del sitio debe ser fácil de mantener.
 *	El código debe estar bien documentado, siguiendo estándares de la industria.
 *	Uso de comentarios y guías de estilo para facilitar la comprensión y la modificación por otros desarrolladores.
 *	Arquitectura modular que permita actualizaciones y mejoras sin afectar el funcionamiento general.
+  
 6.	Portabilidad:  El sitio web debe ser compatible con múltiples plataformas.
 *	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
 *	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
