@@ -185,6 +185,9 @@ Resultados esperados:
 
 ### Cronograma de actividades
 
+![Diagrama](https://github.com/user-attachments/assets/c61d7f6d-cfd2-4de3-b4c0-6126674a4beb)
+
+
 
 ### Herramientas a utilizar
 <p align="justify">
