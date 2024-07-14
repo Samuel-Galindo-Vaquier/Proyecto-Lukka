@@ -185,7 +185,7 @@ Resultados esperados:
 
 ### Cronograma de actividades
 
-![Diagrama](https://github.com/user-attachments/assets/c61d7f6d-cfd2-4de3-b4c0-6126674a4beb)
+![Diagrama_G](https://github.com/user-attachments/assets/ac6d0104-c28b-4e23-8120-23c70a79b523)
 
 
 
