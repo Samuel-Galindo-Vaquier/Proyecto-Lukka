@@ -2,7 +2,6 @@
 
 ## SKM INNOVATION
 
-![SKM](https://github.com/user-attachments/assets/0a81495d-f353-4eb3-8848-3a7669207fec)
 
 ### Misión
 <p align="justify">
