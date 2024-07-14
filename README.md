@@ -2,8 +2,6 @@
 
 ## SKM INNOVATION
 
-![Logo SKM](https://github.com/user-attachments/assets/3516b116-ffb5-4aa0-af5b-8a778763abbf)
-
 
 ### Misión
 <p align="justify">
