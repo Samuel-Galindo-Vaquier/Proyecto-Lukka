@@ -128,54 +128,54 @@ En esta fase definiremos las actividades que se desarrollaran durante este proce
 *	Identificación de riesgos y planificación de mitigaciones.
 
 Resultados esperados:
-•	Documento general.
-•	Plan de proyecto.
+*	Documento general.
+*	Plan de proyecto.
 
 
 ### Fase 2-Análisis y Diseño
 Planificación de actividades:
-•	Modelado de la arquitectura del sistema es decir el prototipado de la página web.
-•	Diseño de la base de datos.
-•	Creación de diagramas (clases, despliegue, actividades y secuencia).
+* Modelado de la arquitectura del sistema es decir el prototipado de la página web.
+*	Diseño de la base de datos.
+*	Creación de diagramas (clases, despliegue, actividades y secuencia).
 
 Resultados esperados:
-•	Diagramas de clases, despliegue, actividades y secuencia.
-•	Diseño detallado del sistema.
+*	Diagramas de clases, despliegue, actividades y secuencia.
+*	Diseño detallado del sistema.
 
 ### Fase 3-Prototipado
 Planificación de actividades:
-•	Desarrollo de prototipos de la interfaz de usuario.
-•	Validación de prototipos con el cliente.
+*	Desarrollo de prototipos de la interfaz de usuario.
+*	Validación de prototipos con el cliente.
 
 Resultados esperados:
-•	Prototipo funcional de la página web.
+*	Prototipo funcional de la página web.
 
 ### Fase 4-Implementación
 Planificación de actividades:
-•	Desarrollo del código fuente de la página web.
-•	Integración con la base de datos.
-•	Implementación de funcionalidades y diseño final.
+*	Desarrollo del código fuente de la página web.
+*	Integración con la base de datos.
+*	Implementación de funcionalidades y diseño final.
 
 Resultados esperados:
-•	Página web funcional.
+*	Página web funcional.
 
 ### Fase 5-Pruebas
 Planificación de actividades:
-•	Pruebas de componentes y su integración (estructura del código).
-•	Pruebas de usabilidad y aceptación con el cliente (evaluación de la pagina).
+*	Pruebas de componentes y su integración (estructura del código).
+*	Pruebas de usabilidad y aceptación con el cliente (evaluación de la pagina).
 
 Resultados esperados:
-•	Informe de pruebas.
-•	Versión final de la página web lista para despliegue.
+*	Informe de pruebas.
+*	Versión final de la página web lista para despliegue.
 
 ### Fase 6-Despliegue y Mantenimiento
 Planificación de actividades:
-•	Despliegue de la página web en el servidor.
-•	Monitoreo y mantenimiento continuo.
+*	Despliegue de la página web en el servidor.
+*	Monitoreo y mantenimiento continuo.
 
 Resultados esperados:
-•	Página web en producción.
-•	Plan de mantenimiento.
+*	Página web en producción.
+*	Plan de mantenimiento.
 
 ### Identificación de responsables
 <p align="justify">
