@@ -61,7 +61,7 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 
 ### Requerimientos funcionales
 <p align="justify">
-1.	Actualización de Información: Se deben implementar sistemas de gestión de contenido (CMS) para facilitar la actualización regular de información sobre productos, servicios, promociones y noticias.
+1.  Actualización de Información: Se deben implementar sistemas de gestión de contenido (CMS) para facilitar la actualización regular de información sobre productos, servicios, promociones y noticias.
   
 2.	Contenido Multimedia: La página debe incluir contenido multimedia autorizado.
 *	Soporte para la integración de imágenes y videos de alta calidad.
@@ -203,14 +203,13 @@ Resultados esperados:
 
 ### Herramientas a utilizar
 <p align="justify">
-En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos a ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos. A continuación determinaremos algunos de los principales:
+En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos a ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos. A continuación determinaremos algunos de los principales:</p>
 *	Adobe XD
 *	Visual Studio Code
 *	HTML5,
 *	JavaScript 
 *	MySQL
 * CSS3
-</p>
   
 ## Story board y wireframe 
 ![1](https://github.com/user-attachments/assets/e65da9b0-4ebf-404f-a5f5-695a64fd3272)
