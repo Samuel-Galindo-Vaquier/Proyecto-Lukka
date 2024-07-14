@@ -2,6 +2,9 @@
 
 ## SKM INNOVATION
 
+![Logo SKM](https://github.com/user-attachments/assets/3516b116-ffb5-4aa0-af5b-8a778763abbf)
+
+
 ### Misión
 <p align="justify">
 SKM Innovation. Comprometidos por el desarrollo y diseño de páginas web, que no solo sean visualmente atractivas, sino también funcionales, intuitivas y orientadas a resultados combinando creatividad, tecnología y estrategias favorables para tu empresa. Dedicados a transformar la presencia digital de manera profesional, para crecer y prosperar en el entorno competitivo actual.
