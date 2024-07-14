@@ -1,6 +1,7 @@
 # Proyecto-Lukka
 
 ## SKM INNOVATION
+![SKM (1)](https://github.com/user-attachments/assets/2e91fe56-9ff1-4388-ae07-dbdd224de476)
 
 
 ### Misión
