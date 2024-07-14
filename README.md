@@ -89,25 +89,25 @@ o	La página debe ser totalmente responsiva y funcionar correctamente en disposi
 ### Requerimientos no funcionales
 <p align="justify">
 1.	Rendimiento: El sitio web debe cargar rápidamente.
-o	El tiempo de carga de la página principal no debe superar los 3 segundos en conexiones de banda ancha.
-o	Uso de técnicas de optimización como compresión de imágenes, carga diferida (lazy loading) y almacenamiento en caché.
+*	El tiempo de carga de la página principal no debe superar los 3 segundos en conexiones de banda ancha.
+*	Uso de técnicas de optimización como compresión de imágenes, carga diferida (lazy loading) y almacenamiento en caché.
 2.	Seguridad: El sitio web debe garantizar la seguridad de los datos.
-o	Implementación de HTTPS para encriptar la comunicación entre el servidor y los usuarios.
-o	Protección contra ataques comunes como XSS, CSRF e inyecciones SQL.
-o	Mecanismos para la gestión segura de contraseñas y datos sensibles.
+*	Implementación de HTTPS para encriptar la comunicación entre el servidor y los usuarios.
+*	Protección contra ataques comunes como XSS, CSRF e inyecciones SQL.
+*	Mecanismos para la gestión segura de contraseñas y datos sensibles.
 3.	Fiabilidad: El sitio web debe ser confiable.
-o	Debe tener una disponibilidad de al menos el 99% del tiempo.
-o	Uso de servicios de hosting confiables y monitoreo constante para detectar y solucionar problemas rápidamente.
+*	Debe tener una disponibilidad de al menos el 99% del tiempo.
+*	Uso de servicios de hosting confiables y monitoreo constante para detectar y solucionar problemas rápidamente.
 4.	Disponibilidad: El sitio web debe estar accesible en todo momento.
-o	El sitio debe estar disponible las 24 horas del día, los 7 días de la semana.
-o	Implementación de planes de contingencia y recuperación ante desastres.
+*	El sitio debe estar disponible las 24 horas del día, los 7 días de la semana.
+*	Implementación de planes de contingencia y recuperación ante desastres.
 5.	Mantenibilidad: El código del sitio debe ser fácil de mantener.
-o	El código debe estar bien documentado, siguiendo estándares de la industria.
-o	Uso de comentarios y guías de estilo para facilitar la comprensión y la modificación por otros desarrolladores.
-o	Arquitectura modular que permita actualizaciones y mejoras sin afectar el funcionamiento general.
+*	El código debe estar bien documentado, siguiendo estándares de la industria.
+*	Uso de comentarios y guías de estilo para facilitar la comprensión y la modificación por otros desarrolladores.
+*	Arquitectura modular que permita actualizaciones y mejoras sin afectar el funcionamiento general.
 6.	Portabilidad:  El sitio web debe ser compatible con múltiples plataformas.
-o	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
-o	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
+*	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
+*	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
 </p>
 
 ## Plan de trabajo
@@ -177,12 +177,12 @@ Resultados esperados:
 *	Página web en producción.
 *	Plan de mantenimiento.
 
-### Identificación de responsables
+### Matriz de responsabilidades
 <p align="justify">
-•	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
-•	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
-•	Mario Antonio Leyva Olivares: Prototipado, pruebas, documentación y despliegue.
-•	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
+*	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
+*	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
+*	Mario Antonio Leyva Olivares: Prototipado, pruebas, documentación y despliegue.
+*	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
 </p>
 
 ### Cronograma de actividades
@@ -194,12 +194,12 @@ Resultados esperados:
 ### Herramientas a utilizar
 <p align="justify">
 En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos a ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos. A continuación determinaremos algunos de los principales:
-•	Adobe XD
-•	Visual Studio Code
-•	HTML5,
-•	JavaScript 
-•	MySQL
-• CSS3
+*	Adobe XD
+*	Visual Studio Code
+*	HTML5,
+*	JavaScript 
+*	MySQL
+* CSS3
 </p>
   
 ## Story board y wireframe 
