@@ -176,10 +176,12 @@ Resultados esperados:
 •	Plan de mantenimiento.
 
 ### Identificación de responsables
+<p align="justify">
 •	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
 •	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
 •	Mario Antonio Leyva Olivares: Prototipado, pruebas, documentación y despliegue.
 •	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
+</p>
 
 ### Cronograma de actividades
 
