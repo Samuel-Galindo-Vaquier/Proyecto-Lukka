@@ -191,7 +191,7 @@ Resultados esperados:
 
 ### Herramientas a utilizar
 <p align="justify">
-En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos, a continuación determinaremos algunos de los principales :
+En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos a ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos. A continuación determinaremos algunos de los principales:
 •	Adobe XD
 •	Visual Studio Code
 •	HTML5,
