@@ -64,7 +64,7 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 ## Requerimientos funcionales y no funcionales
 
 ### Requerimientos funcionales
-<p align="justify">
+
 1.  Actualización de Información: Se deben implementar sistemas de gestión de contenido (CMS) para facilitar la actualización regular de información sobre productos, servicios, promociones y noticias.
   
 2.	Contenido Multimedia: La página debe incluir contenido multimedia autorizado.
@@ -92,10 +92,10 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 *	Opciones para compartir contenido en redes sociales.
 *	Compatibilidad Multidispositivo:
 * La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
-</p>
+
 
 ### Requerimientos no funcionales
-<p align="justify">
+
 1.	Rendimiento: El sitio web debe cargar rápidamente.
   
 *	El tiempo de carga de la página principal no debe superar los 3 segundos en conexiones de banda ancha.
@@ -122,7 +122,7 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 6.	Portabilidad:  El sitio web debe ser compatible con múltiples plataformas.
 *	El sitio debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge).
 *	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
-</p>
+
 
 ## Plan de trabajo
   
