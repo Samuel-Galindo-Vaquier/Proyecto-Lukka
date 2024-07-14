@@ -201,8 +201,11 @@ En este punto identificaremos a lo largo del proyecto, cuales son las herramient
 </p>
   
 ## Story board y wireframe 
-
-[storyboard.zip](https://github.com/user-attachments/files/16228299/storyboard.zip)
+![1720979975277](https://github.com/user-attachments/assets/ecb9fc45-1cc5-4950-aa43-ca68d9a7dfca)
+![1720979975306](https://github.com/user-attachments/assets/668e2044-c3b0-4b78-b297-cf646b353713)
+![1720979975335](https://github.com/user-attachments/assets/646cb824-772f-43ad-8c3e-89d717894776)
+![1720979975321](https://github.com/user-attachments/assets/2826b0e2-5d81-4d84-bfe0-c4bc86f88674)
+![1720979975292](https://github.com/user-attachments/assets/eb879d53-1a8c-4f29-855f-08bd17aeb202)
 ## Mockups
 
 
