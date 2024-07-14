@@ -44,14 +44,18 @@ La ausencia de una página web y una estrategia de marketing digital está resul
 ## Justificación
 
 <p align="justify">
-La implementación de una página web para Lukka aumentará su visibilidad y alcance en el mercado digital. Utilizando SEO y SEM, la cafetería mejorará su posicionamiento en búsquedas relevantes, atrayendo más visitantes tanto a su sitio web como a su establecimiento físico.
+La implementación de una página web para Lukka aumentará su visibilidad y alcance en el mercado digital. Utilizando SEO y SEM, la cafetería mejorará su posicionamiento en búsquedas relevantes, atrayendo más visitantes tanto a su sitio web como a su establecimiento físico.</p>
 
-La página web servirá como una plataforma central para campañas de marketing digital, incluyendo publicidad en redes sociales, email marketing y promociones especiales. Las herramientas de analítica web permitirán medir y ajustar estas campañas para optimizar el presupuesto publicitario.
+<p alingn="justify">
+La página web servirá como una plataforma central para campañas de marketing digital, incluyendo publicidad en redes sociales, email marketing y promociones especiales. Las herramientas de analítica web permitirán medir y ajustar estas campañas para optimizar el presupuesto publicitario.</p>
 
-La experiencia del cliente mejorará con acceso fácil a información sobre productos, horarios, ubicaciones y promociones. También facilitará la interacción y el feedback directo a través de formularios de contacto y encuestas de satisfacción, mejorando la comunicación con los clientes.
+<p alingn="justify">
+La experiencia del cliente mejorará con acceso fácil a información sobre productos, horarios, ubicaciones y promociones. También facilitará la interacción y el feedback directo a través de formularios de contacto y encuestas de satisfacción, mejorando la comunicación con los clientes.</p>
 
-Para la fidelización, la web permitirá implementar programas de lealtad y ofertas exclusivas para clientes recurrentes. La publicación de contenido relevante mantendrá a los clientes interesados y comprometidos con la marca.
+<p alingn="justify">
+Para la fidelización, la web permitirá implementar programas de lealtad y ofertas exclusivas para clientes recurrentes. La publicación de contenido relevante mantendrá a los clientes interesados y comprometidos con la marca.</p>
 
+<p alingn="justify">
 En términos de competitividad, una presencia en línea profesional ayudará a construir una marca sólida y confiable. Mantener la página web actualizada permitirá a Lukka diferenciarse de la competencia y destacar en el mercado.
 </p>
 
@@ -121,8 +125,10 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 </p>
 
 ## Plan de trabajo
-<p align="justify">
+  
 ### Metodología a seguir
+
+<p align="justify">
 En el proyecto de la página web de la cafetería Lukka, se empleará una de las metodologías de desarrollo por el cual se tomo en cuenta las ventajas y desventajas de cada una de ellas, nos basamos en la metodología de espiral, ya que esta mas enfocada a los puntos de la pagina web.
 Entre unas de las características de esta metodología es que combina elementos de diseño y prototipado en cada ciclo, permitiendo un desarrollo iterativo y evolutivo que minimiza los riesgos y mejora continuamente el producto final. Sin embargo, el proceso pasa por distintas etapas, desde la conceptualización, siguiendo el desarrollo, luego una fase de mejoras, y para finalizar con el mantenimiento. 
 Además, en cada ejecución del desarrollo se sigue una serie de fases principales:
