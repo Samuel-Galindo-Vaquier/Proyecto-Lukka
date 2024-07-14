@@ -123,9 +123,9 @@ Además, en cada ejecución del desarrollo se sigue una serie de fases principal
 En esta fase definiremos las actividades que se desarrollaran durante este proceso, como también los resultados o servicios que deben ser producidos al final de cada fase del proyecto. Esto nos permiten evaluar el progreso y la calidad del proyecto. Los resultados aseguran que cada fase tiene un propósito claro y proporciona un valor añadido al proyecto en su conjunto. Mientras que nosotros como los responsables somos los encargados de completar las tareas asociadas a cada fase del proyecto, asegurando que se produzcan en el tiempo y con la calidad requerida.
 </p>
 
-•	Definición de objetivos y alcance del proyecto.
-•	Análisis de requisitos funcionales y no funcionales.
-•	Identificación de riesgos y planificación de mitigaciones.
+*	Definición de objetivos y alcance del proyecto.
+*	Análisis de requisitos funcionales y no funcionales.
+*	Identificación de riesgos y planificación de mitigaciones.
 
 Resultados esperados:
 •	Documento general.
