@@ -200,7 +200,9 @@ En este punto identificaremos a lo largo del proyecto, cuales son las herramient
 • CSS3
 </p>
   
-## Story board y wireframe
+## Story board y wireframe 
+
+[storyboard.zip](https://github.com/user-attachments/files/16228299/storyboard.zip)
 ## Mockups
 
 
