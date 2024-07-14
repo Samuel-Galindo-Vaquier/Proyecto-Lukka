@@ -62,28 +62,32 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 ### Requerimientos funcionales
 <p align="justify">
 1.	Actualización de Información: Se deben implementar sistemas de gestión de contenido (CMS) para facilitar la actualización regular de información sobre productos, servicios, promociones y noticias.
+  
 2.	Contenido Multimedia: La página debe incluir contenido multimedia autorizado.
-o	Soporte para la integración de imágenes y videos de alta calidad.
-o	Sistema para que los videos se reproduzcan sin problemas, con opciones de reproducción automática y manual.
-o	Los archivos multimedia deben estar optimizados para la web para evitar tiempos de carga prolongados.
+*	Soporte para la integración de imágenes y videos de alta calidad.
+*	Sistema para que los videos se reproduzcan sin problemas, con opciones de reproducción automática y manual.
+*	Los archivos multimedia deben estar optimizados para la web para evitar tiempos de carga prolongados.
+  
 3.	Estructura y Organización: La página debe tener una estructura clara y organizada.
-o	Debe haber un menú de navegación intuitivo que permita a los usuarios encontrar fácilmente lo que buscan.
-o	Las secciones deben estar bien definidas y seguir una jerarquía lógica.
-o	Se debe incluir un mapa del sitio para ayudar en la navegación y mejorar la SEO.
+*	Debe haber un menú de navegación intuitivo que permita a los usuarios encontrar fácilmente lo que buscan.
+*	Las secciones deben estar bien definidas y seguir una jerarquía lógica.
+*	Se debe incluir un mapa del sitio para ayudar en la navegación y mejorar la SEO.
+  
 4.	Atractivo Visual: La página debe ser visualmente atractiva.
-o	Diseño moderno y profesional que refleje la identidad de la marca.
-o	Uso coherente de colores y tipografías que resuenen con la audiencia objetivo.
-o	Implementación de galerías de imágenes y carruseles de videos.
-o	Uso de animaciones suaves y transiciones para mejorar la experiencia del usuario.
+*	Diseño moderno y profesional que refleje la identidad de la marca.
+*	Uso coherente de colores y tipografías que resuenen con la audiencia objetivo.
+*	Implementación de galerías de imágenes y carruseles de videos.
+*	Uso de animaciones suaves y transiciones para mejorar la experiencia del usuario.
+  
 5.	Funcionalidades Específicas:
-o	Formulario de Contacto:
-o	El formulario debe permitir a los usuarios enviar mensajes directamente desde la página.
-o	Debe incluir validaciones en tiempo real para evitar el envío de datos incorrectos.
-o	Integración de Redes Sociales:
-o	Enlaces a los perfiles de redes sociales de la empresa deben estar presentes en todas las páginas.
-o	Opciones para compartir contenido en redes sociales.
-o	Compatibilidad Multidispositivo:
-o	La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
+*	Formulario de Contacto:
+*	El formulario debe permitir a los usuarios enviar mensajes directamente desde la página.
+*	Debe incluir validaciones en tiempo real para evitar el envío de datos incorrectos.
+*	Integración de Redes Sociales:
+*	Enlaces a los perfiles de redes sociales de la empresa deben estar presentes en todas las páginas.
+*	Opciones para compartir contenido en redes sociales.
+*	Compatibilidad Multidispositivo:
+* La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
 </p>
 
 ### Requerimientos no funcionales
