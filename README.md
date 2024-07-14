@@ -194,12 +194,12 @@ Resultados esperados:
 *	Plan de mantenimiento.
 
 ### Matriz de responsabilidades
-<p align="justify">
+
 *	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
 *	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
 *	Mario Antonio Leyva Olivares: Prototipado, pruebas, documentación y despliegue.
 *	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
-</p>
+
 
 ### Cronograma de actividades
 
@@ -210,6 +210,7 @@ Resultados esperados:
 ### Herramientas a utilizar
 <p align="justify">
 En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos a ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos. A continuación determinaremos algunos de los principales:</p>
+
 *	Adobe XD
 *	Visual Studio Code
 *	HTML5,
