@@ -60,6 +60,7 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 </p>
 
 ## Diagrama de contexto
+![Diagrama de contexto](https://github.com/Samuel-Galindo-Vaquier/Proyecto-Lukka/blob/main/Proyecto/Diagrama%20de%20contexto.png)
 
 ## Requerimientos funcionales y no funcionales
 
