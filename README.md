@@ -29,19 +29,21 @@ SKM Innovation. Aspiramos a ser reconocidos mundialmente por nuestra capacidad p
 
 6.	Orientación al Cliente: Colocamos al cliente en el centro de todas nuestras decisiones, ofreciendo soporte personalizado y adaptado a sus necesidades específicas.
 
-## Objetivo
+## Proyecto Lukka-Página web publicitaria
+
+### Objetivo
 
 <p align="justify">
 Desarrollar una página web efectiva que sirva como una plataforma de información con fines publicitarios, implementando campañas de mercadeo dirigidas a atraer y retener clientes, todo dentro de un presupuesto predefinido. Esta página web permitirá a Lukka expandir su presencia en el mercado digital, alcanzando una base más amplia de clientes potenciales y mejorando su competitividad.
 </p>
 
-## Planteamiento del problema
+### Planteamiento del problema
 
 <p align="justify">
 La ausencia de una página web y una estrategia de marketing digital está resultando en la pérdida de oportunidades comerciales. Muchos consumidores actuales dependen de internet para descubrir y decidir sobre sus opciones de consumo. Sin una presencia en línea, Lukka está perdiendo una parte crucial del mercado que prefiere buscar productos y servicios en línea. Además, la cafetería enfrenta dificultades para retener a sus clientes actuales y fidelizarlos, ya que carece de herramientas digitales para mantener su interés y lealtad. Esta situación coloca a Lukka en una desventaja competitiva frente a otras empresas del sector que sí cuentan con una presencia en línea sólida.
 </p>
 
-## Justificación
+### Justificación
 
 <p align="justify">
 La implementación de una página web para Lukka aumentará su visibilidad y alcance en el mercado digital. Utilizando SEO y SEM, la cafetería mejorará su posicionamiento en búsquedas relevantes, atrayendo más visitantes tanto a su sitio web como a su establecimiento físico.</p>
@@ -59,12 +61,12 @@ Para la fidelización, la web permitirá implementar programas de lealtad y ofer
 En términos de competitividad, una presencia en línea profesional ayudará a construir una marca sólida y confiable. Mantener la página web actualizada permitirá a Lukka diferenciarse de la competencia y destacar en el mercado.
 </p>
 
-## Diagrama de contexto
+### Diagrama de contexto
 ![Diagrama de contexto](https://github.com/Samuel-Galindo-Vaquier/Proyecto-Lukka/blob/main/Proyecto/Diagrama%20de%20contexto.png)
 
-## Requerimientos funcionales y no funcionales
+### Requerimientos funcionales y no funcionales
 
-### Requerimientos funcionales
+#### Requerimientos funcionales
 
 1.  Actualización de Información: Se deben implementar sistemas de gestión de contenido (CMS) para facilitar la actualización regular de información sobre productos, servicios, promociones y noticias.
   
@@ -95,7 +97,7 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 * La página debe ser totalmente responsiva y funcionar correctamente en dispositivos móviles, tablets y ordenadores de escritorio.
 
 
-### Requerimientos no funcionales
+#### Requerimientos no funcionales
 
 1.	Rendimiento: El sitio web debe cargar rápidamente.
   
@@ -125,9 +127,9 @@ En términos de competitividad, una presencia en línea profesional ayudará a c
 *	Pruebas exhaustivas en diferentes dispositivos y sistemas operativos para asegurar la consistencia.
 
 
-## Plan de trabajo
+### Plan de trabajo
   
-### Metodología a seguir
+#### Metodología a seguir
 
 <p align="justify">
 En el proyecto de la página web de la cafetería Lukka, se empleará una de las metodologías de desarrollo por el cual se tomo en cuenta las ventajas y desventajas de cada una de ellas, nos basamos en la metodología de espiral, ya que esta mas enfocada a los puntos de la pagina web.
@@ -135,7 +137,8 @@ Entre unas de las características de esta metodología es que combina elementos
 Además, en cada ejecución del desarrollo se sigue una serie de fases principales:
 </p>
 
-### Fase 1-Planificación
+#### Fases
+##### Fase 1-Planificación
 <p align="justify">
 En esta fase definiremos las actividades que se desarrollaran durante este proceso, como también los resultados o servicios que deben ser producidos al final de cada fase del proyecto. Esto nos permiten evaluar el progreso y la calidad del proyecto. Los resultados aseguran que cada fase tiene un propósito claro y proporciona un valor añadido al proyecto en su conjunto. Mientras que nosotros como los responsables somos los encargados de completar las tareas asociadas a cada fase del proyecto, asegurando que se produzcan en el tiempo y con la calidad requerida.
 </p>
@@ -149,7 +152,7 @@ Resultados esperados:
 *	Plan de proyecto.
 
 
-### Fase 2-Análisis y Diseño
+##### Fase 2-Análisis y Diseño
 Planificación de actividades:
 * Modelado de la arquitectura del sistema es decir el prototipado de la página web.
 *	Diseño de la base de datos.
@@ -159,7 +162,7 @@ Resultados esperados:
 *	Diagramas de clases, despliegue, actividades y secuencia.
 *	Diseño detallado del sistema.
 
-### Fase 3-Prototipado
+##### Fase 3-Prototipado
 Planificación de actividades:
 *	Desarrollo de prototipos de la interfaz de usuario.
 *	Validación de prototipos con el cliente.
@@ -167,7 +170,7 @@ Planificación de actividades:
 Resultados esperados:
 *	Prototipo funcional de la página web.
 
-### Fase 4-Implementación
+##### Fase 4-Implementación
 Planificación de actividades:
 *	Desarrollo del código fuente de la página web.
 *	Integración con la base de datos.
@@ -176,7 +179,7 @@ Planificación de actividades:
 Resultados esperados:
 *	Página web funcional.
 
-### Fase 5-Pruebas
+##### Fase 5-Pruebas
 Planificación de actividades:
 *	Pruebas de componentes y su integración (estructura del código).
 *	Pruebas de usabilidad y aceptación con el cliente (evaluación de la pagina).
@@ -185,7 +188,7 @@ Resultados esperados:
 *	Informe de pruebas.
 *	Versión final de la página web lista para despliegue.
 
-### Fase 6-Despliegue y Mantenimiento
+##### Fase 6-Despliegue y Mantenimiento
 Planificación de actividades:
 *	Despliegue de la página web en el servidor.
 *	Monitoreo y mantenimiento continuo.
@@ -194,7 +197,7 @@ Resultados esperados:
 *	Página web en producción.
 *	Plan de mantenimiento.
 
-### Matriz de responsabilidades
+#### Matriz de responsabilidades
 
 *	Ana Karen Aguilar Torres: Análisis, diseño, desarrollo y documentación.
 *	Samuel Galindo Vaquier: Desarrollo, pruebas, documentación y mantenimiento.
@@ -202,13 +205,13 @@ Resultados esperados:
 *	Cliente (Propietario de Lukka): Proveer requisitos, validación de prototipos y retroalimentación continua.
 
 
-### Cronograma de actividades
+#### Cronograma de actividades
 
 ![Diagrama_G](https://github.com/user-attachments/assets/ac6d0104-c28b-4e23-8120-23c70a79b523)
 
 
 
-### Herramientas a utilizar
+#### Herramientas a utilizar
 <p align="justify">
 En este punto identificaremos a lo largo del proyecto, cuales son las herramientas que vamos a ocupar, en este caso vamos hacer uso de programas de diseño, desarrollo, lenguajes de programación, base de datos. A continuación determinaremos algunos de los principales:</p>
 
@@ -219,14 +222,17 @@ En este punto identificaremos a lo largo del proyecto, cuales son las herramient
 *	MySQL
 * CSS3
   
-## Story board y wireframe 
+### Storyboard 
+![Storyboard](https://github.com/Samuel-Galindo-Vaquier/Proyecto-Lukka/blob/main/Proyecto/Storyboard.png)
+
+### Wireframe 
 ![1](https://github.com/user-attachments/assets/e65da9b0-4ebf-404f-a5f5-695a64fd3272)
 ![2](https://github.com/user-attachments/assets/0d520062-1208-4bd3-aded-611f87178d01)
 ![3](https://github.com/user-attachments/assets/330f79f7-53b5-4ee3-b955-49ee6c516e8e)
 ![4](https://github.com/user-attachments/assets/a031b4ca-438b-4c28-9134-b23c6a17b9ad)
 ![5](https://github.com/user-attachments/assets/d7916e64-c3a1-4fc4-9972-66e00b1d32ec)
 
-## Mockups
+### Mockups
 ![principal](https://github.com/user-attachments/assets/01e74a1d-d584-4339-b4af-fd337f76d0b2) 
 ![menu](https://github.com/user-attachments/assets/a809894d-eb62-4b09-83f0-5a642732e8cc)
 ![menusec](https://github.com/user-attachments/assets/62639995-3b0d-4284-b4e4-c8fa017cfc14)
